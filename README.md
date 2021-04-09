@@ -9,7 +9,7 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ZephyrAndMoon&show_icons=true&line_height=33&count_private=true&theme=radical&hide_border=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZephyrAndMoon&theme=radical&hide_border=true&line_height=33&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ZephyrAndMoon&show_icons=true&line_height=40&count_private=true&theme=radical&hide_border=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZephyrAndMoon&theme=radical&hide_border=true">
 </p>
 </details>
