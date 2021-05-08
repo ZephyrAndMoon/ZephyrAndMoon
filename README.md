@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on Sunnada.
+- 🔭 I’m currently working on StarNet.
 - 😝 Just another Front-end web developer and still growing.
 - 🏓 Hobby: code & photography & movie
 
