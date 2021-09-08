@@ -4,7 +4,7 @@
    
 </div>
 
-<img align='right' src='https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/linux.gif' width='200"'>
+<img align='right' src='https://markdowncun.oss-cn-beijing.aliyuncs.com/9382F15378A8597763FC6D673B329F2A.gif' width='200"'>
 
 ### About me 🤭
 - ⚙️  I’m currently working on StarNet.
