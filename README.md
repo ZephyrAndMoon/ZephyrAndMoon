@@ -1,9 +1,11 @@
 <div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2A92C0&size=40&width=600&height=120&lines=Hey+There%2C+I'm+Zephyr+%F0%9F%98%89)](https://git.io/typing-svg)
+  
 </div>
 
 <div align="center">
-  <img src='https://markdowncun.oss-cn-beijing.aliyuncs.com/dev-working_rounded.gif' width='70%'>
+  <img src='https://markdowncun.oss-cn-beijing.aliyuncs.com/dev-working_rounded.gif' width='60%'>
 </div>
 
 <img align='right' src='https://markdowncun.oss-cn-beijing.aliyuncs.com/linux_rounded.gif' width='200'>
