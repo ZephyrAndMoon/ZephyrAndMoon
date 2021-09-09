@@ -2,14 +2,14 @@
   <img src='https://markdowncun.oss-cn-beijing.aliyuncs.com/dev-working_rounded.gif' width='60%'>
 </div>
 
-## Hey there, I'm Zephyr 😉
+### Hey there, I'm Zephyr  😉
 
 ### About me 🤭
-- ⚙️  I’m currently working on StarNet.
-- 👨‍💻  Just another Front-end web developer and still growing.
-- 📺  Often watch vlogs on the Bilibili.
-- 📝  Like to do things related to record.
-- 🎞️  A near frenzy for everything about movies.
+- ⚙️   I’m currently working on StarNet.
+- 👨‍💻   Just another Front-end web developer and still growing.
+- 📺   Often watch vlogs on the Bilibili.
+- 📝   Like to do things related to record.
+- 🎞️   A near frenzy for everything about movies.
 
 <img align='right' src='https://markdowncun.oss-cn-beijing.aliyuncs.com/linux_rounded.gif' width='200'>
 
