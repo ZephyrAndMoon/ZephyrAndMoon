@@ -17,6 +17,6 @@
 - **✉️  Email：** zephyrandmoon@gmail.com
 - **🪄  Weibo：** [风走了以后](https://weibo.com/u/3011512391)
 
-*Feel free to talk to me about movies or programming, but I may not be able to help you. 🤣*
+*Feel free to discuss films or programming with me, but I may not be able to help you. 🤣*
 
 <img align='right' src='https://markdowncun.oss-cn-beijing.aliyuncs.com/dev-working_rounded.gif' width='100%'>
