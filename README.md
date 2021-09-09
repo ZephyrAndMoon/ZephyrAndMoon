@@ -8,7 +8,7 @@
   <img src='https://markdowncun.oss-cn-beijing.aliyuncs.com/dev-working_rounded.gif' width='60%'>
 </div>
 
-<img align='right' src='https://markdowncun.oss-cn-beijing.aliyuncs.com/linux_rounded.gif' width='200'>
+
 
 ### About me 🤭
 - ⚙️  I’m currently working on StarNet.
@@ -20,6 +20,8 @@
 ### Reach me 😶
 - **✉️  Email：** zephyrandmoon@gmail.com
 - **🪄  Weibo：** [风走了以后](https://weibo.com/u/3011512391)
+
+<img align='right' src='https://markdowncun.oss-cn-beijing.aliyuncs.com/linux_rounded.gif' width='200'>
 
 *Feel free to discuss films or programming with me, but I may not be able to help you. 🤣*
 
