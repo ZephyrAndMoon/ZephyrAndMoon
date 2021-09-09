@@ -4,7 +4,7 @@
    
 </div>
 
-<img align='right' src='https://markdowncun.oss-cn-beijing.aliyuncs.com/9382F15378A8597763FC6D673B329F2A.gif' width='200"'>
+<img align='right' src='https://markdowncun.oss-cn-beijing.aliyuncs.com/20210909090737.png' width='200'>
 
 ### About me 🤭
 - ⚙️  I’m currently working on StarNet.
@@ -19,4 +19,4 @@
 
 *Feel free to talk to me about movies or programming, but I may not be able to help you. 🤣*
 
-
+<img align='right' src='https://markdowncun.oss-cn-beijing.aliyuncs.com/20210909090712.png' width='100%'>
