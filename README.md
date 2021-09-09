@@ -2,7 +2,7 @@
   <img src='https://markdowncun.oss-cn-beijing.aliyuncs.com/dev-working_rounded.gif' width='60%'>
 </div>
 
-### Hey there, I'm Zephyr 👋🏻🏻
+### Hey there, I'm Zephyr 👋🏻
 <br />
 
 ### About me 🤭
