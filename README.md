@@ -10,7 +10,7 @@
 - 👨‍💻   Just another Front-end web developer and still growing.
 - 📺   Often watch vlogs on the Bilibili.
 - 📝   Like to do things related to record.
-- 🎞️   A near frenzy for everything about movies.
+- 🎞️   A near frenzy for everything about films.
 
 <img align='right' src='https://markdowncun.oss-cn-beijing.aliyuncs.com/linux_rounded.gif' width='200'>
 
