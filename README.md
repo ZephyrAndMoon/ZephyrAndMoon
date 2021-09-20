@@ -7,13 +7,13 @@
 
 
 ### About me 🤭
-- ⚙️   I’m currently working on StarNet.
+- ⚙️   I’m currently working on Fujian.
 - 👨‍💻   Just another Front-end web developer and still growing.
 - 📺   Often watch vlogs on the Bilibili.
 - 📝   Like to do things related to record.
 - 🎞️   A near frenzy for everything about films.
 
-<img align='right' src='https://markdowncun.oss-cn-beijing.aliyuncs.com/linux_rounded.gif' width='200'>
+<!-- <img align='right' src='https://markdowncun.oss-cn-beijing.aliyuncs.com/linux_rounded.gif' width='200'> -->
 
 ### Reach me 😶
 - **✉️   Email：** zephyrandmoon@gmail.com
